@@ -1,0 +1,5 @@
+  resource_group_name  = "rg-tf-deployment"
+      storage_account_name = "sttfstoragelocation"
+      container_name       = "tfstate"
+      key                  = "ocs_dev.tfstate"
+      access_key = "+ASt6vT+Uw=="
